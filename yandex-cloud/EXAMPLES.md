@@ -1,5 +1,6 @@
 Official docs [link](https://terraform-provider.yandexcloud.net)
 
+- [compute_disk_placement_group](examples/dcompute_disk_placement_group)
 - [dns_recordset](examples/dns_recordset)
 - [dns_zone](examples/dns_zone)
 - [dns_zone_iam_binding](examples/dns_zone_iam_binding)
