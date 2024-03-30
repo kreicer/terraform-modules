@@ -2,6 +2,7 @@ Official docs [link](https://terraform-provider.yandexcloud.net)
 
 - [dns_recordset](modules/dns_recordset)
 - [dns_zone](modules/dns_zone)
+- [dns_zone_iam_binding](modules/dns_zone_iam_binding)
 - [iam_service_account](modules/iam_service_account)
 - [iam_service_account_api_key](modules/iam_service_account_api_key)
 - [mdb_opensearch_cluster](modules/mdb_opensearch_cluster)
