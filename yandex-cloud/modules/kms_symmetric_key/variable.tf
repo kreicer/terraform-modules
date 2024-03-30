@@ -35,7 +35,7 @@ variable "kms_protect" {
 
 variable "labels" {
   type              = map
-  description       = "A set of key/value label pairs to assign to the key."
+  description       = "A set of key/value label pairs to assign to the resource."
   default           = {
     managed         = "terraform"
   }

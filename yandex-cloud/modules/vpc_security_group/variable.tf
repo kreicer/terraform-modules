@@ -62,7 +62,7 @@ variable "egress_rules" {
 
 variable "labels" {
   type                      = map
-  description               = "A set of key/value label pairs to assign to the OpenSearch cluster."
+  description               = "A set of key/value label pairs to assign to the resource."
   default                   = {
     managed                 = "terraform"
   }
